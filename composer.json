@@ -1,0 +1,20 @@
+{
+    "name": "camilo/taller-intermedio-php",
+    "autoload": {
+        "psr-4": {
+            "Camilo\\TallerIntermedioPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juancamilo",
+            "email": "juan.3802010536@ucaldas.edu.co"
+        }
+    ],
+    "require": {
+       
+        "swiftmailer/swiftmailer": "^6.0",
+        "fpdf/fpdf": "^1.86",
+        "setasign/fpdf": "^1.8"
+    }
+}
